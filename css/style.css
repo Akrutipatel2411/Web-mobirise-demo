@@ -1,0 +1,85 @@
+body,html
+{
+    height: 100%;
+    width: 100%;
+    margin: 0%;
+}
+.headphonecont
+{
+    width: 100%;
+
+}
+.content
+{
+    width: 80%;
+    margin: auto;
+    background-color: coral;
+}
+.cont
+{
+    width: 80%;
+    margin: auto;
+    background-color: cadetblue;
+}
+.cont1
+{
+    width: 20%;
+    background-color: palevioletred;
+    display: inline-block;
+    
+}
+.qua
+{
+    width: 20%;
+    position: absolute;
+}
+.qua1
+{
+    width: 20%;
+
+    position: relative;
+}
+.qualitycont
+{
+
+    background-color: aqua;
+    
+}
+.devicescont
+{
+    background-color: aqua;
+}
+.div
+{
+    width: 20%;
+    position: absolute;
+}
+.div1
+{
+  width: 20%;
+    position: relative;  
+}
+.warrentycont
+{
+   
+    background-color: chartreuse;
+    
+}
+.war
+{
+    width: 20%;
+    background-color: darkblue;
+}
+.checkcont
+{
+    background-color: crimson;
+}
+.check
+{
+    width: 20%;
+    background-color: darkblue;
+}
+.h1
+{
+    margin: 0;
+}
